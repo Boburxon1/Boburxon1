@@ -1,100 +1,109 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Murodov%20Shohruh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20%2555%20Full-Stack%20Developer&descAlignY=68&descSize=18" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Abduxamidov%20Bobur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20%7C%20Full-Stack%20Django%20Developer&descAlignY=68&descSize=18" alt="Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;color=6EB5FF&amp;size=20&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Node.js+%7C+NestJS+%7C+TypeScript;Docker+%7C+PostgreSQL+%7C+Redis;React+%7C+Three.js+%7C+TailwindCSS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=6EB5FF&size=20&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+PostgreSQL;Docker+%7C+Redis+%7C+Celery;REST+APIs+%7C+Full-Stack+Development" alt="Typing SVG"/>
 </p>
 
 ---
+
 ## 🧠 About Me
 
-Salom! Men Murodov Shohruh — Backend Architect va Full-Stack developer.  
+Salom! Men **Abduxamidov Bobur** — Backend va Full-Stack Django developer.
 
-Backend va frontend tizimlarini yarataman, shuningdek interaktiv 3D veb tajribalar (Three.js + React) bilan ishlayman. Kodimni toza, oson kengaytiriladigan va samarali qilish mening asosiy printsipim.
+Backend tizimlarini noldan ishlab chiqaman va production darajaga olib chiqaman. Kod yozishda asosiy e’tiborim — **tozalik, performance va scalability**.
 
-Hozirgi fokusim:  
-- Tezkor va ishonchli backend tizimlari (Node.js + NestJS) 
-- Event-driven va microservices arxitekturalari
-- Interaktiv 3D sahnalar va vizualizatsiyalar (Three.js / React Three Fiber) 
-- Kodning kelajakda kengaytirilishi va oson saqlanishi
+Hozirgi fokusim:
+
+* Tezkor va ishonchli backend tizimlari (Django + DRF)
+* Database dizayn va optimizatsiya (PostgreSQL)
+* API arxitektura (Authentication, Permissions, REST)
+* Background tasks (Celery + Redis)
+* Docker orqali deploy va muhit boshqaruvi
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Backend & Systems
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,postgresql,mongodb&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker&perline=5" />
 </p>
 
-### Frontend
+### Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&perline=4" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&perline=4" />
 </p>
 
 ---
 
-## ⚛️ Mahorat
+## ⚙️ Mahorat
 
-Frontend & Immersive Development
-- ⚛️ React + Vite — Tezkor va zamonaviy SPA lar
-- 🌌 Three.js / React Three Fiber — 3D sahnalar va vizualizatsiyalar
-- 🎬 Framer Motion — Animatsiyalar va interaktiv effektlar
-- 🧠 Zustand + React Query — Holat boshqaruvi va server ma’lumotlarini samarali ishlash
-- 🎨 TailwindCSS — Tez va chiroyli dizayn
+Backend Development
 
-Backend & System Development
-- 🔗 Node.js + NestJS — REST va GraphQL API lar
-- 🐍 Python — Skriptlar, ma’lumotlarni qayta ishlash, AI integratsiyasi
-- 🐳 Docker + Kubernetes — Loyihalarni konteynerga joylash va ishga tushirish
+* 🐍 Python + Django — Kuchli va scalable backendlar
+* 🔗 Django REST Framework — REST API lar yaratish
+* 🗄 PostgreSQL — Database dizayn va optimizatsiya
+* 🔐 JWT Authentication & Permissions
+* 🐳 Docker — Loyihalarni container orqali boshqarish
+* ⚡ Celery + Redis — Background tasklar
+
+System Thinking
+
+* 🧠 Clean Architecture
+* 📦 Modular va kengaytiriladigan kod yozish
+* 🚀 Production-ready backendlar yaratish
 
 ---
 
-## 🌌 3D Contribution Graph
+## 🌌 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MurodovShohruh&theme=tokyo-night&hide_border=true&area=true&color=00f7ff&bg_color=0f2027" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&color=00f7ff&bg_color=0f2027" alt="Contribution Graph"/>
 </p>
 
 ## 🐍 Neon Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MurodovShohruh/MurodovShohruh/output/snake-neon-hard.svg" alt="Neon Snake"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake-neon-hard.svg" alt="Neon Snake"/>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MurodovShohruh&theme=tokyonight&hide_border=true&border_radius=16&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff" width="49%" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=16&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff" width="49%" alt="Streak"/>
 </p>
 
 ---
+
 ## 🌐 Portfolio & Links
 
-👉 [/murodovshohruh.github.io](https://murodovshohruh.github.io/MurodovShohruh/)
+👉 https://YOUR_USERNAME.github.io/
 
 ---
 
 ## 📬 Contact
 
-- 📧 Murodovshohruh2003@gmail.com
-- 🔗 GitHub: [MurodovShohruh](https://github.com/MurodovShohruh)
+* 📧 [your@email.com](mailto:your@email.com)
+* 🔗 GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
 ## 🧬 Philosophy
 
-> ⚡️ "Code is not just working — it must scale, be maintainable, and beautiful."
+> ⚡️ "Code is not just working — it must scale, be maintainable, and clean."
 
-> *"Bir marta yozilgan kod butun umr ishlasin — tez, xavfsiz va oson kengayadigan bo‘lsin."*
+> *"Kod faqat ishlashi emas — u tez, xavfsiz va kengayadigan bo‘lishi kerak."*
 
 ---
 
 ## 👁 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MurodovShohruh&label=Profile%20Views&color=00f7ff&style=flat&base=2000" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00f7ff&style=flat" alt="Profile Views"/>
 </p>
 
 ---
