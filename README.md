@@ -77,18 +77,14 @@ System Thinking
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=16&ring_color=00f7ff&fire_color=ff00aa&sideNums_color=ffffff" width="49%" alt="Streak"/>
 </p>
 
----
 
-## 🌐 Portfolio & Links
-
-👉 https://YOUR_USERNAME.github.io/
 
 ---
 
 ## 📬 Contact
 
-* 📧 [your@email.com](mailto:your@email.com)
-* 🔗 GitHub: https://github.com/YOUR_USERNAME
+* 📧 [boburxonabduxamidxonov@gmail.com]
+* 🔗 GitHub: https://github.com/Boburxon1
 
 ---
 
