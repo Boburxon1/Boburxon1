@@ -1,97 +1,105 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,100:2c5364&height=200&section=header&text=Bobur%20Abduxamidov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50"/>
-</p>
+<div align="center">
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=24&center=true&vCenter=true&width=600&lines=Backend+Developer;Django+%7C+DRF+%7C+PostgreSQL;Building+Scalable+Systems"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bobur%20Abduxamidov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Backend%20Developer&descSize=20&descAlignY=72&descColor=00ADB5"/>
 
----
+<br/>
 
-##  About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ADB5&size=22&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Python+%26+Django;Building+Scalable+%26+Production-Ready+Systems;Clean+Code+%7C+REST+APIs+%7C+Microservices)](https://github.com/Boburxon1)
 
-Salom! Men Abduxamidov Bobur — Backend va Full-Stack Django developer.
-
-Backend tizimlarini noldan ishlab chiqaman va production darajaga olib chiqaman.  
-Kod yozishda asosiy e’tiborim — tozalik, performance va scalability.
+</div>
 
 ---
 
-##  Tech Stack
+## 👨‍💻 About Me
+
+I'm a **Backend Developer** specializing in building scalable, production-ready systems from scratch.  
+My focus is on **clean architecture**, **performance**, and **maintainability**.
+
+- 🔭 Currently working on scalable backend systems with Django & DRF
+- 🌱 Exploring microservices, event-driven architecture & system design
+- ⚡ I believe: *"Code is not just working — it must scale, be maintainable, and clean."*
+- 📍 Based in **Tashkent, Uzbekistan**
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend & Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker"/>
+  <img src="https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,nginx" />
 </p>
 
-### Tools
+### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
 
-## ⚙️ Mahorat
+## ⚙️ Skills & Expertise
 
-### Backend Development
-- 🐍 Python + Django — Kuchli va scalable backendlar
-- 🔗 Django REST Framework — REST API lar yaratish
-- 🗄 PostgreSQL — Database dizayn va optimizatsiya
-- 🔐 JWT Authentication & Permissions
-- 🐳 Docker — Container asosida deploy
-- ⚡ Celery + Redis — Background tasklar
-
-### System Thinking
--  Clean Architecture
--  Modular kod yozish
--  Production-ready backendlar
+| Category | Skills |
+|---|---|
+| **Languages** | Python,  JavaScript |
+| **Frameworks** | Django, DRF,  React |
+| **Databases** | PostgreSQL, 
+| **DevOps** | Docker, 
+| **APIs** | REST API, 
+| **Architecture** | Microservices, Event-driven, Clean Architecture |
+| **Auth** | JWT,  Permissions |
+| **Async** | Celery, Redis Queue |
 
 ---
 
-## 🌌 Contribution Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boburxon1&theme=react-dark"/>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boburxon1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boburxon1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Boburxon1&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-##  Neon Snake
+## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boburxon1&theme=react-dark&hide_border=true&area=true&color=00ADB5&line=00ADB5&point=ffffff"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Boburxon1/Boburxon1/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</div>
 
 ---
 
-##  GitHub Stats
+## 📬 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boburxon1&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boburxon1&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+[![Email](https://img.shields.io/badge/Email-boburxonabduxamidxonov%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boburxonabduxamidxonov@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Boburxon1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boburxon1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bobur%20Abduxamidov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boburxon-abduxamidov-682202401/)
 
-##  Contact
-
-📧 boburxonabduxamidxonov@gmail.com  
-🔗 GitHub: https://github.com/Boburxon1  
+</div>
 
 ---
 
-##  Philosophy
+<div align="center">
 
- "Code is not just working — it must scale, be maintainable, and clean."
+![Visitor Count](https://komarev.com/ghpvc/?username=Boburxon1&label=Profile%20Views&color=00ADB5&style=flat-square)
 
-"Kod faqat ishlashi emas — u tez, xavfsiz va kengayadigan bo‘lishi kerak."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 
----
-
-## 👁 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boburxon1&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
+</div>
